@@ -1,2 +1,1 @@
-mteor227
-========
+Mteor 227 - Computational Meteorology Repository
